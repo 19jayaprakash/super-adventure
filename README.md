@@ -1,2 +1,2 @@
 # super-adventure
-System.out.println("Jayaprakash R");
+Jayaprakash R
